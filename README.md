@@ -1,6 +1,6 @@
-![image](https://media-exp1.licdn.com/dms/image/C4E16AQH4-srgeTe-zg/profile-displaybackgroundimage-shrink_200_800/0/1623711563025?e=1642636800&v=beta&t=fYCTp4t97S5Vi4-IQH3vGlTlP-CzJzZiH4nyN4NuCBk)
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Adrián Ramírez.
 
-I'm a Computer Science Student at Tecnológico de Monterrey interested in:
+I'm a Computer Technologies Engineering Student at Tecnológico de Monterrey and an Microsoft Learn Student Ambassador interested in:
 - Web Development
 - Mobile Development
 - Blockchain
